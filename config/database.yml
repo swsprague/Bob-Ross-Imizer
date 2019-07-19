@@ -1,4 +1,4 @@
-<% project_name = 'full-stack-project' %>
+<% project_name = 'bob-ross-imizer' %>
 
 default: &default
   adapter: postgresql
